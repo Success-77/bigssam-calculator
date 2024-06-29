@@ -9,8 +9,8 @@ import PaymentDetails from "../../shared/components/PaymentDetails";
 import AllInput from "./AllInput";
 
 const serverDetails = {
-  number: "0249116309",
-  momoName: "Abdul Rahman Benyi",
+  number: "0597526188",
+  momoName: "Asante Kodua Ventures",
 };
 
 const AllCalculator = ({ mtnPrices, vodaPrices }) => {
@@ -18,7 +18,7 @@ const AllCalculator = ({ mtnPrices, vodaPrices }) => {
   // const [atInputValue, setATInputValue] = useState("");
   const [vodaInputValue, setVodaInputValue] = useState("");
   const [mtnInputError, setMTNInputError] = useState("");
-  const [atInputError, setATInputError] = useState("");
+  // const [atInputError, setATInputError] = useState("");
   const [vodaInputError, setVodaInputError] = useState("");
   const [tableContent, setTableContent] = useState("");
   const [isCopied, setIsCopied] = useState(false);

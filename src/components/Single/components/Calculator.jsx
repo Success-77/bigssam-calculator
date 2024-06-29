@@ -15,8 +15,8 @@ import {
 } from "../../shared/utilities/formatters";
 
 const serverDetails = {
-  number: "0249116309",
-  momoName: "Abdul Rahman Benyi",
+  number: "0597526188",
+  momoName: "Asante Kodua Ventures",
 };
 
 const Calculator = ({ network }) => {
