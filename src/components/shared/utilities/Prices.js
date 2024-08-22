@@ -155,4 +155,7 @@ export const vodaPrices = {
   40: 150,
   50: 190,
   100: 190 * 2,
+  190: 245, //Special package
+  280: 455, //Special package
+  395: 545, //Special package
 };
